@@ -1,0 +1,3 @@
+slrk_deploy_bucket = "slrk-bucket-14"
+slrk_deploy_db_user = "myAddDbUser"
+slrk_deploy_access_token = "Hua0UOLAqk4msyiB9MRQxRQ3HzV9BvSNw+4tWzb4OTK0ipdiWvU6wFHIiiv+GgLdVzj2+TLqLx88nqLS6mcM+atOW4fUnhwUR92+HSQM8vWZZJBgEefpSPCcoaDAiPhkms1r/61mDb4Xj7S4GBXdO2bMoUv3Yr13r1vqIkhUK4Muu/zH0bXQlomV+npbaS473Xx9bA3qdtEWEto7Vd+fs+wXzGht9O9fKByQ5Hrku/7EUIpU5/RrgZ1CtXVsLYdht/P1vUDzAH0RGToMG1olL6n2JOS5AaonqGYBjZuWYRYJdzyysblCjaF0RT7bHGI8h39c4NdzYIGahQRJlFSyKQ=="
